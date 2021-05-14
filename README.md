@@ -19,6 +19,11 @@ Cuando un conjunto de usuarios consulta un enésimo número (superior a 1000000)
 
 ![](images/part3/part3-function-config.png)
 
+creando la función 
+
+![](images/result/Screenshot_1.png)
+
+
 ![](images/part3/part3-function-configii.png)
 
 2. Instale la extensión de **Azure Functions** para Visual Studio Code.
